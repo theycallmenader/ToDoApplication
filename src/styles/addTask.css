@@ -1,0 +1,37 @@
+.inptitle{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    width: 100%;
+    max-width: 350px;
+    border-radius: 5px;
+    padding: 1.4rem 2rem 1.6rem;
+    background: #F8EAD8;
+    border: none;
+    color: rgb(14, 14, 14);
+    margin-left: 750px;
+    margin-top: -135px;
+    border-bottom: 4px solid #37003c;
+    border-radius: 20px;
+ 
+    float:left; 
+    border-width: 3px 4px 3px 5px;
+   
+    
+    height: 2px;
+}
+.inptitle::placeholder{
+    color: black;
+    font-size: 20px;
+}
+
+.add{
+width: 20px;
+height: 20px;
+background-color: transparent;
+ color: #A7727D;
+position: absolute;
+margin-left: 1100px;
+margin-top: -135px;
+}
